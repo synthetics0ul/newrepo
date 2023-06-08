@@ -1,5 +1,7 @@
 [user]
 	name = Dmitriy Kulik
+	name = Дмитрий
+	email = d.kulik@infocom.kg
 [alias]
 	st = status
         history = log --graph
