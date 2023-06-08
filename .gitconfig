@@ -1,0 +1,6 @@
+[user]
+	name = Dmitriy Kulik
+[alias]
+	st = status
+        history = log --graph
+
